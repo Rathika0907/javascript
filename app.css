@@ -1,0 +1,24 @@
+.card {
+    border: 1px solid #a69e9e;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    display: inline-block;
+    background-color: rgb(209, 228, 244);
+    box-sizing: border-box;
+    border-radius: 20px;
+    bo
+}
+img{
+    width: 180px;
+    height: 200px;
+    
+}
+
+#product{
+    background-color: rgba(9, 187, 241, 0.396);
+}
+button{
+    background-color: rgb(9, 168, 231);
+    
+}
